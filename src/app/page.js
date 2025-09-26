@@ -38,11 +38,10 @@ export default function Home() {
         />
         <div className="relative z-10 max-w-3xl">
           <h2 className="text-5xl md:text-7xl font-extrabold tracking-tight">
-            DESIGN & FREEDOM
+            DIGITAL PRODUCT DESIGN
           </h2>
           <p className="mt-4 text-lg text-neutral-300">
-            Explore Independent Style by Embracing Uniqueness with Our Exclusive
-            Designer Apparel
+            Welcome, my name is Anna.
           </p>
           <button className="mt-6 border border-white px-6 py-2 rounded-full hover:bg-white hover:text-black transition">
             Learn More
