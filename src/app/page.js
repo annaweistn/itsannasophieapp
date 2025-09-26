@@ -118,7 +118,7 @@ export default function Home() {
           </p>
         </div>
         <Image
-          src="/about.jpg"
+          src="/about.png"
           alt="Fashion Story"
           width={600}
           height={400}
