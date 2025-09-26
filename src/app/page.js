@@ -5,7 +5,7 @@ export default function HomePage() {
       style={{ padding: "2rem", fontFamily: "sans-serif", textAlign: "center" }}
     >
       <h1>Willkommen auf meiner Website 🚀</h1>
-      <p>Ich bin Anna Sophie – dies ist meine eigene Next.js-App.</p>
+      <p>Ich bin Anna Sophie.</p>
     </main>
   );
 }
